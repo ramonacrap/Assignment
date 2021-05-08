@@ -1,0 +1,23 @@
+h1 {
+    font-family: Times new roman;
+}
+p{
+    font-family: Georgia;
+    font-size: 1em;
+}
+form {
+            display: grid;
+            width: 500px;
+            grid-template-columns: 50% 50%;
+            align-items: center;
+            grid-gap: 0.2em;
+            font-family: Georgia;
+            font-size: 1.5em;
+            }
+submit {
+            grid-column: 5;
+            }
+body {
+    background-color: rgb(240, 224, 230);
+    display: grid;
+}

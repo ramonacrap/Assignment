@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(240, 224, 230);
+    display: grid;
+}
+
+.boxed {
+    border: 1px solid rgb(0, 0, 0) ;
+    font-family: Times new roman;
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 18pt;
+    text-align: center;
+  }
+  
+  img {
+    width: 50%;
+    position: absolute;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10%;
+  }
+
+img:hover {
+  opacity: 0%;
+}
+
+  .shownav {
+    height: 0.8em;
+    width: 1.25em;
+    display: block;
+    border-top: 0.2em solid black;
+    border-bottom: 0.2em solid black;
+    border-radius: 0.1em;
+    }
+  

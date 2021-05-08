@@ -1,0 +1,9 @@
+header {
+    text-align: center;
+    font-size: 15pt;
+    font-family: Georgia;
+}
+body {
+    background-color: rgb(240, 224, 230);
+    display: grid;
+}
